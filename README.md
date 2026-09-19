@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Greedy
 |  |
@@ -39,4 +41,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
