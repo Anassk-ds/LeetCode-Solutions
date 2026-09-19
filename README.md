@@ -10,6 +10,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Binary Search
@@ -27,6 +28,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Greedy
@@ -41,6 +43,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Trie
 |  |
