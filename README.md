@@ -35,4 +35,8 @@
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
