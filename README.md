@@ -41,8 +41,13 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
