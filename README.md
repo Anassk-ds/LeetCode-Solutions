@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# 🧩 LeetCode Solutions
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-DSA%20Practice-orange?style=for-the-badge&logo=leetcode)
 ![Python](https://img.shields.io/badge/Python-Solutions-blue?style=for-the-badge&logo=python)
@@ -6,14 +6,16 @@
 
 A collection of my **LeetCode problem solutions and Data Structures & Algorithms (DSA) practice**, implemented primarily in Python.
 
-This repository documents my problem-solving journey through different algorithms, data structures, and problem-solving patterns.
+This repository documents my problem-solving journey through different algorithms, data structures, and DSA patterns.
 
 ---
 
 ## 👨‍💻 About
 
-**Name:** Shaik Anas  
-**GitHub:** [Anassk-ds](https://github.com/Anassk-ds)  
+**Name:** Shaik Anas
+
+**GitHub:** [Anassk-ds](https://github.com/Anassk-ds)
+
 **Focus:** Data Structures & Algorithms | Python | Problem Solving
 
 I use this repository to:
@@ -29,7 +31,7 @@ I use this repository to:
 
 ## 📂 Repository Structure
 
-Each problem is organized in its own folder:
+Each LeetCode problem is organized in its own folder.
 
 ```text
 LeetCode-Solutions/
@@ -46,6 +48,37 @@ LeetCode-Solutions/
 │   ├── solution.py
 │   └── README.md
 │
-├── ...
+├── 0013-roman-to-integer/
+│   ├── solution.py
+│   └── README.md
 │
-└── README.md
+├── 0014-longest-common-prefix/
+│   ├── solution.py
+│   └── README.md
+│
+├── 0027-remove-element/
+│   ├── solution.py
+│   └── README.md
+│
+├── 1401-circle-and-rectangle-overlapping/
+│   ├── solution.py
+│   └── README.md
+│
+├── 1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/
+│   ├── solution.py
+│   └── README.md
+│
+├── 1520-maximum-number-of-non-overlapping-substrings/
+│   ├── solution.py
+│   └── README.md
+│
+├── 3498-reverse-degree-of-a-string/
+│   ├── solution.py
+│   └── README.md
+│
+├── 3524-find-x-value-of-array-i/
+│   ├── solution.py
+│   └── README.md
+│
+├── README.md
+└── stats.json
