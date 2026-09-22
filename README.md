@@ -82,3 +82,19 @@ LeetCode-Solutions/
 │
 ├── README.md
 └── stats.json
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Math
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
+<!---LeetCode Topics End-->
