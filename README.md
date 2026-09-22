@@ -1,37 +1,120 @@
 # 🧩 LeetCode Solutions
 
-![LeetCode](https://img.shields.io/badge/LeetCode-DSA%20Practice-orange?style=for-the-badge&logo=leetcode)
-![Python](https://img.shields.io/badge/Python-Solutions-blue?style=for-the-badge&logo=python)
-![GitHub](https://img.shields.io/badge/GitHub-Anassk--ds-black?style=for-the-badge&logo=github)
+Welcome to my **LeetCode Solutions** repository! 🚀
 
-A collection of my **LeetCode problem solutions and Data Structures & Algorithms (DSA) practice**, implemented primarily in Python.
+This repository contains my solutions to LeetCode problems, organized by problem number and difficulty. Each problem includes the solution, explanation, complexity analysis, and the main problem-solving pattern used.
 
-This repository documents my problem-solving journey through different algorithms, data structures, and DSA patterns.
+The goal of this repository is to consistently improve my **Data Structures & Algorithms (DSA)**, problem-solving, and competitive programming skills.
 
 ---
 
-## 👨‍💻 About
+## 📊 Progress
 
-**Name:** Shaik Anas
-
-**GitHub:** [Anassk-ds](https://github.com/Anassk-ds)
-
-**Focus:** Data Structures & Algorithms | Python | Problem Solving
-
-I use this repository to:
-
-- 🧠 Practice Data Structures and Algorithms
-- 💻 Improve problem-solving skills
-- 📚 Learn and apply common DSA patterns
-- 🎯 Prepare for technical interviews
-- 📈 Track my LeetCode progress
-- 🔄 Maintain a record of solved problems
+| Difficulty | Problems Solved |
+|------------|----------------:|
+| 🟢 Easy | 7 |
+| 🟡 Medium | 4 |
+| 🔴 Hard | 1 |
+| **Total** | **12** |
 
 ---
 
-## 📂 Repository Structure
+## 🛠️ Languages & Technologies
 
-Each LeetCode problem is organized in its own folder.
+- 🐍 Python
+- 💡 Data Structures & Algorithms
+- 🧠 Problem Solving
+- 📊 Dynamic Programming
+- 🔍 Hashing
+- 🪟 Sliding Window
+- 🌳 Segment Tree
+- 🔗 Linked Lists
+- 🔢 Modular Arithmetic
+- 🔄 Two Pointers
+- 🎯 Greedy Algorithms
+
+---
+
+# 📚 Solved Problems
+
+## 🟢 Easy
+
+| # | Problem | Solution | Pattern |
+|---|---------|----------|---------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./0001-two-sum/) | HashMap |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](./0009-palindrome-number/) | Number Manipulation |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution](./0013-roman-to-integer/) | HashMap / String |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](./0014-longest-common-prefix/) | String |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Solution](./0027-remove-element/) | Two Pointers |
+| 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Solution](./3498-reverse-degree-of-a-string/) | String / Mapping |
+| 3524 | [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | [Solution](./3524-find-x-value-of-array-i/) | Dynamic Programming / Modulo |
+
+---
+
+## 🟡 Medium
+
+| # | Problem | Solution | Pattern |
+|---|---------|----------|---------|
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](./0002-add-two-numbers/) | Linked List |
+| 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [Solution](./1401-circle-and-rectangle-overlapping/) | Geometry |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Solution](./1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Sliding Window / DP |
+| 1520 | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Solution](./1520-maximum-number-of-non-overlapping-substrings/) | Greedy / Intervals |
+
+---
+
+## 🔴 Hard
+
+| # | Problem | Solution | Pattern |
+|---|---------|----------|---------|
+| 3525 | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/) | [Solution](./3525-find-x-value-of-array-ii/) | Segment Tree / DP / Modular Arithmetic |
+
+---
+
+# 🧠 Problem Patterns
+
+This repository covers a variety of important DSA patterns:
+
+### 🔑 Hashing
+- Two Sum
+- Roman to Integer
+
+### 🔗 Linked Lists
+- Add Two Numbers
+
+### 🔄 Two Pointers
+- Remove Element
+
+### 🪟 Sliding Window
+- Find Two Non-overlapping Sub-arrays Each With Target Sum
+
+### 🧠 Dynamic Programming
+- Find X Value of Array I
+- Find Two Non-overlapping Sub-arrays Each With Target Sum
+
+### 🌳 Segment Tree
+- Find X Value of Array II
+
+### 🎯 Greedy Algorithms
+- Maximum Number of Non-Overlapping Substrings
+
+### 🔢 Modular Arithmetic
+- Find X Value of Array I
+- Find X Value of Array II
+
+### 🔤 String Processing
+- Palindrome Number
+- Roman to Integer
+- Longest Common Prefix
+- Reverse Degree of a String
+
+### 📐 Geometry
+- Circle and Rectangle Overlapping
+
+---
+
+# 📁 Repository Structure
+
+Each problem has its own folder containing the solution and explanation.
 
 ```text
 LeetCode-Solutions/
@@ -80,21 +163,8 @@ LeetCode-Solutions/
 │   ├── solution.py
 │   └── README.md
 │
-├── README.md
-└── stats.json
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3525-find-x-value-of-array-ii](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
-## Math
-|  |
-| ------- |
-| [3525-find-x-value-of-array-ii](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
-## Segment Tree
-|  |
-| ------- |
-| [3525-find-x-value-of-array-ii](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
-<!---LeetCode Topics End-->
+├── 3525-find-x-value-of-array-ii/
+│   ├── solution.py
+│   └── README.md
+│
+└── README.md
