@@ -13,9 +13,9 @@ The goal of this repository is to consistently improve my **Data Structures & Al
 | Difficulty | Problems Solved |
 |------------|----------------:|
 | 🟢 Easy | 7 |
-| 🟡 Medium | 4 |
+| 🟡 Medium | 5 |
 | 🔴 Hard | 1 |
-| **Total** | **12** |
+| **Total** | **13** |
 
 ---
 
@@ -32,6 +32,8 @@ The goal of this repository is to consistently improve my **Data Structures & Al
 - 🔢 Modular Arithmetic
 - 🔄 Two Pointers
 - 🎯 Greedy Algorithms
+- 📐 Geometry
+- 🔤 String Processing
 
 ---
 
@@ -59,6 +61,7 @@ The goal of this repository is to consistently improve my **Data Structures & Al
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [Solution](./1401-circle-and-rectangle-overlapping/) | Geometry |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Solution](./1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Sliding Window / DP |
 | 1520 | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Solution](./1520-maximum-number-of-non-overlapping-substrings/) | Greedy / Intervals |
+| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](./1658-minimum-operations-to-reduce-x-to-zero/) | Sliding Window |
 
 ---
 
@@ -72,7 +75,7 @@ The goal of this repository is to consistently improve my **Data Structures & Al
 
 # 🧠 Problem Patterns
 
-This repository covers a variety of important DSA patterns:
+This repository covers a variety of important DSA patterns.
 
 ### 🔑 Hashing
 - Two Sum
@@ -86,10 +89,12 @@ This repository covers a variety of important DSA patterns:
 
 ### 🪟 Sliding Window
 - Find Two Non-overlapping Sub-arrays Each With Target Sum
+- Minimum Operations to Reduce X to Zero
 
 ### 🧠 Dynamic Programming
 - Find X Value of Array I
 - Find Two Non-overlapping Sub-arrays Each With Target Sum
+- Find X Value of Array II
 
 ### 🌳 Segment Tree
 - Find X Value of Array II
@@ -109,6 +114,9 @@ This repository covers a variety of important DSA patterns:
 
 ### 📐 Geometry
 - Circle and Rectangle Overlapping
+
+### 🔢 Number Manipulation
+- Palindrome Number
 
 ---
 
@@ -155,6 +163,10 @@ LeetCode-Solutions/
 │   ├── solution.py
 │   └── README.md
 │
+├── 1658-minimum-operations-to-reduce-x-to-zero/
+│   ├── solution.py
+│   └── README.md
+│
 ├── 3498-reverse-degree-of-a-string/
 │   ├── solution.py
 │   └── README.md
@@ -168,27 +180,3 @@ LeetCode-Solutions/
 │   └── README.md
 │
 └── README.md
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-## Hash Table
-|  |
-| ------- |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-## Binary Search
-|  |
-| ------- |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-## Sliding Window
-|  |
-| ------- |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-## Prefix Sum
-|  |
-| ------- |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-<!---LeetCode Topics End-->
