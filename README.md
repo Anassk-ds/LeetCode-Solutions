@@ -180,3 +180,15 @@ LeetCode-Solutions/
 │   └── README.md
 │
 └── README.md
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+<!---LeetCode Topics End-->
