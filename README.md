@@ -13,9 +13,9 @@ The goal of this repository is to consistently improve my **Data Structures & Al
 | Difficulty | Problems Solved |
 |------------|----------------:|
 | 🟢 Easy | 8 |
-| 🟡 Medium | 6 |
-| 🔴 Hard | 1 |
-| **Total** | **15** |
+| 🟡 Medium | 7 |
+| 🔴 Hard | 2 |
+| **Total** | **17** |
 
 ---
 
@@ -35,6 +35,8 @@ The goal of this repository is to consistently improve my **Data Structures & Al
 - 📐 Geometry
 - 🔤 String Processing
 - 🔢 Digit Manipulation
+- 🧩 Recursion
+- 📝 Expression Parsing
 
 ---
 
@@ -65,6 +67,7 @@ The goal of this repository is to consistently improve my **Data Structures & Al
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Solution](./1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Sliding Window / DP |
 | 1520 | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Solution](./1520-maximum-number-of-non-overlapping-substrings/) | Greedy / Intervals |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](./1658-minimum-operations-to-reduce-x-to-zero/) | Sliding Window |
+| 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [Solution](./1807-evaluate-the-bracket-pairs-of-a-string/) | HashMap / String Parsing |
 
 ---
 
@@ -72,19 +75,21 @@ The goal of this repository is to consistently improve my **Data Structures & Al
 
 | # | Problem | Solution | Pattern |
 |---|---------|----------|---------|
+| 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) | [Solution](./1096-brace-expansion-ii/) | Recursion / Parsing / Set |
 | 3525 | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/) | [Solution](./3525-find-x-value-of-array-ii/) | Segment Tree / DP / Modular Arithmetic |
 
 ---
 
 # 🧠 Problem Patterns
 
-This repository covers a variety of important DSA patterns.
+This repository covers a variety of important DSA patterns and techniques.
 
 ### 🔑 Hashing
 
 - Two Sum
 - Roman to Integer
 - Longest Substring Without Repeating Characters
+- Evaluate the Bracket Pairs of a String
 
 ### 🔗 Linked Lists
 
@@ -126,6 +131,7 @@ This repository covers a variety of important DSA patterns.
 - Longest Common Prefix
 - Reverse Degree of a String
 - Longest Substring Without Repeating Characters
+- Evaluate the Bracket Pairs of a String
 
 ### 📐 Geometry
 
@@ -135,6 +141,15 @@ This repository covers a variety of important DSA patterns.
 
 - Palindrome Number
 - Smallest Index With Digit Sum Equal to Index
+
+### 🧩 Recursion & Parsing
+
+- Brace Expansion II
+- Evaluate the Bracket Pairs of a String
+
+### 🗂️ Set Operations
+
+- Brace Expansion II
 
 ---
 
@@ -173,6 +188,10 @@ LeetCode-Solutions/
 │   ├── solution.py
 │   └── README.md
 │
+├── 1096-brace-expansion-ii/
+│   ├── solution.py
+│   └── README.md
+│
 ├── 1401-circle-and-rectangle-overlapping/
 │   ├── solution.py
 │   └── README.md
@@ -186,6 +205,10 @@ LeetCode-Solutions/
 │   └── README.md
 │
 ├── 1658-minimum-operations-to-reduce-x-to-zero/
+│   ├── solution.py
+│   └── README.md
+│
+├── 1807-evaluate-the-bracket-pairs-of-a-string/
 │   ├── solution.py
 │   └── README.md
 │
@@ -206,37 +229,3 @@ LeetCode-Solutions/
 │   └── README.md
 │
 └── README.md
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [1096-brace-expansion-ii](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
-| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
-## String
-|  |
-| ------- |
-| [1096-brace-expansion-ii](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
-| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
-## Backtracking
-|  |
-| ------- |
-| [1096-brace-expansion-ii](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
-## Stack
-|  |
-| ------- |
-| [1096-brace-expansion-ii](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
-## Breadth-First Search
-|  |
-| ------- |
-| [1096-brace-expansion-ii](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
-## Sorting
-|  |
-| ------- |
-| [1096-brace-expansion-ii](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
-## Array
-|  |
-| ------- |
-| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
-<!---LeetCode Topics End-->
