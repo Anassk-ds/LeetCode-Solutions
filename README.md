@@ -33,9 +33,9 @@ I use this repository to:
 | Difficulty | Problems Solved |
 |------------|----------------:|
 | 🟢 Easy | **8** |
-| 🟡 Medium | **8** |
+| 🟡 Medium | **9** |
 | 🔴 Hard | **2** |
-| **Total** | **18** |
+| **Total** | **19** |
 
 ---
 
@@ -47,6 +47,7 @@ I use this repository to:
 - 🪟 Sliding Window
 - 👉 Two Pointers
 - 🔗 Linked Lists
+- 📚 Stack
 - 🧮 Dynamic Programming
 - 🌳 Segment Trees
 - 🎯 Greedy Algorithms
@@ -57,6 +58,7 @@ I use this repository to:
 - 🧩 Expression Parsing
 - 📦 Set Operations
 - 🔢 Digit Manipulation
+- 📊 Interval Techniques
 
 ---
 
@@ -112,6 +114,10 @@ LeetCode-Solutions/
 │   └── README.md
 │
 ├── 1520-maximum-number-of-non-overlapping-substrings/
+│   ├── solution.py
+│   └── README.md
+│
+├── 1614-maximum-nesting-depth-of-the-parentheses/
 │   ├── solution.py
 │   └── README.md
 │
