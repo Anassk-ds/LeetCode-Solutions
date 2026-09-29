@@ -6,7 +6,7 @@
 
 A collection of my **LeetCode problem solutions** and **Data Structures & Algorithms (DSA)** practice, implemented primarily in Python.
 
-This repository documents my problem-solving journey, covering different algorithmic patterns, data structures, and programming techniques.
+This repository documents my problem-solving journey through different algorithmic patterns, data structures, and programming techniques.
 
 ---
 
@@ -34,8 +34,8 @@ I use this repository to:
 |------------|----------------:|
 | 🟢 Easy | **8** |
 | 🟡 Medium | **9** |
-| 🔴 Hard | **2** |
-| **Total** | **19** |
+| 🔴 Hard | **3** |
+| **Total** | **20** |
 
 ---
 
@@ -43,7 +43,7 @@ I use this repository to:
 
 - 🐍 Python
 - 🧠 Data Structures & Algorithms
-- 🔍 Hashing
+- 🔑 Hashing
 - 🪟 Sliding Window
 - 👉 Two Pointers
 - 🔗 Linked Lists
@@ -59,12 +59,13 @@ I use this repository to:
 - 📦 Set Operations
 - 🔢 Digit Manipulation
 - 📊 Interval Techniques
+- 🗺️ Grid Traversal
 
 ---
 
 # 📁 Repository Structure
 
-Each problem is organized in its own folder using the following format:
+Each problem is organized in its own folder.
 
 ```text
 LeetCode-Solutions/
@@ -129,6 +130,10 @@ LeetCode-Solutions/
 │   ├── solution.py
 │   └── README.md
 │
+├── 2267-check-if-there-is-a-valid-parentheses-string-path/
+│   ├── solution.py
+│   └── README.md
+│
 ├── 3498-reverse-degree-of-a-string/
 │   ├── solution.py
 │   └── README.md
@@ -146,23 +151,3 @@ LeetCode-Solutions/
 │   └── README.md
 │
 └── README.md
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
-## Dynamic Programming
-|  |
-| ------- |
-| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
-## Matrix
-|  |
-| ------- |
-| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
-## Bracket Sequences
-|  |
-| ------- |
-| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
-<!---LeetCode Topics End-->
