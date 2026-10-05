@@ -1,71 +1,40 @@
-# 🧩 LeetCode Solutions
+# 🧠 LeetCode Solutions
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-DSA%20Practice-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
-[![Python](https://img.shields.io/badge/Python-Solutions-blue?style=for-the-badge&logo=python)](https://www.python.org/)
-[![GitHub](https://img.shields.io/badge/GitHub-Anassk--ds-black?style=for-the-badge&logo=github)](https://github.com/Anassk-ds)
+![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode)
+![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
+![Problems](https://img.shields.io/badge/Problems-26-success?style=for-the-badge)
 
-A collection of my **LeetCode problem solutions** and **Data Structures & Algorithms (DSA)** practice, implemented primarily in Python.
+A collection of my **LeetCode problem solutions** solved using **Python 3**, organized by problem number and focused on building strong **Data Structures & Algorithms (DSA)** skills.
 
-This repository documents my problem-solving journey through different algorithmic patterns, data structures, and programming techniques.
-
----
-
-## 🧑‍💻 About
-
-**Name:** Shaik Anas  
-**GitHub:** [Anassk-ds](https://github.com/Anassk-ds)  
-**Focus:** Data Structures & Algorithms | Python | Problem Solving
-
-I use this repository to:
-
-- 🧠 Practice Data Structures and Algorithms
-- 💻 Improve problem-solving skills
-- 📚 Learn and apply common DSA patterns
-- 🎯 Prepare for technical interviews
-- 📈 Track my LeetCode progress
-- 🔄 Maintain a record of solved problems
-- 🚀 Improve algorithmic thinking
+This repository is continuously updated as I solve more problems. 🚀
 
 ---
 
-# 📊 Progress
+## 📊 Progress
 
-| Difficulty | Problems Solved |
-|------------|----------------:|
-| 🟢 Easy | **8** |
-| 🟡 Medium | **9** |
-| 🔴 Hard | **3** |
-| **Total** | **20** |
+| Difficulty | Solved |
+|------------|--------|
+| 🟢 Easy | **9** |
+| 🟡 Medium | **13** |
+| 🔴 Hard | **4** |
+| **Total** | **26** |
 
 ---
 
-# 🛠️ Languages & Technologies
+## 🛠️ Language & Technologies
 
-- 🐍 Python
-- 🧠 Data Structures & Algorithms
-- 🔑 Hashing
-- 🪟 Sliding Window
-- 👉 Two Pointers
-- 🔗 Linked Lists
-- 📚 Stack
-- 🧮 Dynamic Programming
-- 🌳 Segment Trees
-- 🎯 Greedy Algorithms
-- 🔢 Modular Arithmetic
-- 📐 Geometry
-- 🔤 String Processing
-- 🔄 Recursion
-- 🧩 Expression Parsing
-- 📦 Set Operations
-- 🔢 Digit Manipulation
-- 📊 Interval Techniques
-- 🗺️ Grid Traversal
+- 🐍 Python 3
+- 📚 Data Structures
+- ⚡ Algorithms
+- 🧩 Problem Solving
+- 🔍 Algorithm Optimization
+- 💡 Competitive Programming
 
 ---
 
 # 📁 Repository Structure
 
-Each problem is organized in its own folder.
+Each problem has its own folder containing the solution and explanation.
 
 ```text
 LeetCode-Solutions/
@@ -94,11 +63,35 @@ LeetCode-Solutions/
 │   ├── solution.py
 │   └── README.md
 │
+├── 0020-valid-parentheses/
+│   ├── solution.py
+│   └── README.md
+│
+├── 0022-generate-parentheses/
+│   ├── solution.py
+│   └── README.md
+│
 ├── 0027-remove-element/
 │   ├── solution.py
 │   └── README.md
 │
+├── 0032-longest-valid-parentheses/
+│   ├── solution.py
+│   └── README.md
+│
+├── 0678-valid-parenthesis-string/
+│   ├── solution.py
+│   └── README.md
+│
+├── 0856-score-of-parentheses/
+│   ├── solution.py
+│   └── README.md
+│
 ├── 1096-brace-expansion-ii/
+│   ├── solution.py
+│   └── README.md
+│
+├── 1111-maximum-nesting-depth-of-two-valid-parentheses-strings/
 │   ├── solution.py
 │   └── README.md
 │
@@ -146,24 +139,6 @@ LeetCode-Solutions/
 │   ├── solution.py
 │   └── README.md
 │
-├── 3550-smallest-index-with-digit-sum-equal-to-index/
-│   ├── solution.py
-│   └── README.md
-│
-└── README.md
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0856-score-of-parentheses](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
-## Stack
-|  |
-| ------- |
-| [0856-score-of-parentheses](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
-## Bracket Sequences
-|  |
-| ------- |
-| [0856-score-of-parentheses](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
-<!---LeetCode Topics End-->
+└── 3550-smallest-index-with-digit-sum-equal-to-index/
+    ├── solution.py
+    └── README.md
