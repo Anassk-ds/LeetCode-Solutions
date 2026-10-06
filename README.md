@@ -2,7 +2,7 @@
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode)
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
-![Problems](https://img.shields.io/badge/Problems-26-success?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-27-success?style=for-the-badge)
 
 A collection of my **LeetCode problem solutions** solved using **Python 3**, organized by problem number and focused on building strong **Data Structures & Algorithms (DSA)** skills.
 
@@ -15,9 +15,9 @@ This repository is continuously updated as I solve more problems. 🚀
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | **9** |
-| 🟡 Medium | **13** |
+| 🟡 Medium | **14** |
 | 🔴 Hard | **4** |
-| **Total** | **26** |
+| **Total** | **27** |
 
 ---
 
@@ -33,8 +33,6 @@ This repository is continuously updated as I solve more problems. 🚀
 ---
 
 # 📁 Repository Structure
-
-Each problem has its own folder containing the solution and explanation.
 
 ```text
 LeetCode-Solutions/
@@ -84,6 +82,10 @@ LeetCode-Solutions/
 │   └── README.md
 │
 ├── 0856-score-of-parentheses/
+│   ├── solution.py
+│   └── README.md
+│
+├── 0921-minimum-add-to-make-parentheses-valid/
 │   ├── solution.py
 │   └── README.md
 │
@@ -142,23 +144,3 @@ LeetCode-Solutions/
 └── 3550-smallest-index-with-digit-sum-equal-to-index/
     ├── solution.py
     └── README.md
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-## Stack
-|  |
-| ------- |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-## Greedy
-|  |
-| ------- |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-## Bracket Sequences
-|  |
-| ------- |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-<!---LeetCode Topics End-->
