@@ -151,6 +151,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -159,4 +160,12 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
