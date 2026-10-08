@@ -144,3 +144,19 @@ LeetCode-Solutions/
 └── 3550-smallest-index-with-digit-sum-equal-to-index/
     ├── solution.py
     └── README.md
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+<!---LeetCode Topics End-->
