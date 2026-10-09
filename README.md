@@ -152,6 +152,7 @@ LeetCode-Solutions/
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -164,8 +165,14 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Greedy
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anassk-ds/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
