@@ -1,4 +1,4 @@
-3863. Minimum Operations to Sort a String
+## 3863. Minimum Operations to Sort a String
 
 Difficulty: Medium
 
